@@ -1,0 +1,125 @@
+.row{
+
+	margin-top: 200px;
+	margin-left: 10%;
+	margin-bottom: 10%;
+	margin-right: 20px;
+}
+
+.col-md-3 #hornet{
+	padding-right: 10px;
+	background-color: grey;
+	border: 5px solid blue;
+	margin-left: 5%;
+	background-image: url(image/hornet.jpg);
+	background-repeat: no-repeat; 
+	background-size: 100% 100%;
+
+}
+
+.col-md-3 #ns{
+	padding-right: 10px;
+	background-color: grey;
+	border: 5px solid blue;
+	margin-left: 5%;
+	background-image: url(image/ns.jpg);
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+
+}
+
+.col-md-3 #fzsv2{
+	padding-right: 10px;
+	background-color: grey;
+	border: 5px solid blue;
+	margin-left: 5%;
+	background-image: url(image/fzsv2.jpg);
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+
+}
+
+.col-md-3 #gixxer{
+	padding-right: 10px;
+	background-color: grey;
+	border: 5px solid blue;
+	margin-left: 5%;
+	background-image: url(image/gixxer.jpg);
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+
+}
+
+.col-md-3 #rtr{
+	padding-right: 10px;
+	background-color: grey;
+	border: 5px solid blue;
+	margin-left: 5%;
+	background-image: url(image/rtr.jpg);
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+
+}
+
+.col-md-3 #fzsv3{
+	padding-right: 10px;
+	background-color: grey;
+	border: 5px solid blue;
+	margin-left: 5%;
+	background-image: url(image/fzsv3.jpg);
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+
+}
+
+.col-md-3 #gixxersf{
+	padding-right: 10px;
+	background-color: grey;
+	border: 5px solid blue;
+	margin-left: 5%;
+	background-image: url(image/gixxersf.jpg);
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+
+}
+
+.col-md-3 #kpr{
+	padding-right: 10px;
+	background-color: grey;
+	border: 5px solid blue;
+	margin-left: 5%;
+	background-image: url(image/kpr.jpg);
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+
+}
+
+.col-md-3 #hunk{
+	padding-right: 10px;
+	background-color: grey;
+	border: 5px solid blue;
+	margin-left: 5%;
+	background-image: url(image/hunk.jpg);
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+
+}
+
+.col-md-3 p {
+	opacity: 0;
+	transition: .4s all;
+}
+
+.col-md-3 p:hover{
+	opacity: 1;
+	padding-left: 10%;
+	background-color: #bccde0;
+	border: 5px green;
+	border-radius: 50px 50px;
+	margin-top: 5%;
+	margin-left: 5%;
+	padding-top: 10%;
+	padding-bottom: 10%;
+	transition: .4s all;
+}
+
