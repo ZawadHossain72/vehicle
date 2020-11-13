@@ -24,7 +24,8 @@ h3 {
 	height: 5px;
 	font-size: 3em;
 	border: 6px solid #7171e0;
-	margin-left: 22%;
+	margin-left: 23%;
+	margin-right: -6%;
 	margin-top: 70px;
 	text-align: center;
 	transition: .4s all;
